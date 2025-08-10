@@ -29,5 +29,15 @@ In this notebook you will:
 
 In this notebook you will:
 
-* Familiar with the basics of the `BeautifulSoup` Python library 
-* Be able to scrape webpages for data and filter the data 
+*   Familiar with the basics of the `BeautifulSoup` Python library 
+*   Be able to scrape webpages for data and filter the data 
+
+
+## Requests_HTTP.ipynb
+
+*   Understand HTTP    
+*   Handle HTTP Requests
+
+## WorkingWithDifferentFileTypes.ipynb
+
+*   Working with different file formats
